@@ -1,7 +1,7 @@
 package ru.mai.service;
 
-import ru.mai.UserNotFoundException;
 import ru.mai.data.User;
+import ru.mai.error.UserNotFoundException;
 
 import java.io.IOException;
 import java.nio.file.Files;

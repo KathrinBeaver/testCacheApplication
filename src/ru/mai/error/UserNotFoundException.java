@@ -1,4 +1,4 @@
-package ru.mai;
+package ru.mai.error;
 
 public class UserNotFoundException extends RuntimeException {
 
